@@ -1,0 +1,40 @@
+span {
+    color: #3c9379;
+}
+
+body {
+    font-family: 'Manrope', Sans-Serif;
+}
+
+.section-brands {
+    font-size: 3px;
+    
+}
+
+.section-brands .container {
+    margin-top: 100px;
+}
+
+.row p {
+    font-size: 16px;
+}
+h4 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+ul {
+    list-style: none;
+    font-size: 16px;
+}
+
+h5 {
+    font-weight: bold;
+    margin-left: 30px;
+    font-size: 16px;
+}
